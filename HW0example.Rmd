@@ -1,0 +1,83 @@
+---
+title: "My First R Document"
+subtitle: "A Sample Resume"
+author: "Your Name Here"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+
+# Steven P. Jobs
+#### Cupertino, California
+##### jobs@apple.com
+##### [Link to personal website](https://en.wikipedia.org/wiki/Steve_Jobs)
+
+![Headshot](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/248px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg)  
+
+
+---
+
+"To make a contribution to the world by making tools for the mind that advance humankind."
+
+
+
+---
+
+**About Me:**  
+* Like to meditate  
+* College dropout  
+* Obsess about fonts  
+* Always looking for the NeXT big thing  
+* Workaholic 
+* Like jeans and turtlenecks
+
+
+---
+
+**Skills:**  
+
+* Management  
+* Company turnarounds  
+* Dramatic product demos  
+* Experience with ~~keynote~~^1^  
+* Putting "i" in front of stuff.^2^  
+* Legendary attention to detail~~z~~  
+
+
+---
+
+**Work Experience:**
+
+- **Apple Computer,** *Co-Founder*
+
+    * Built Apple into the second biggest manufacturer of small computers    
+
+    - Thought [different](https://youtu.be/5sMBhDv4sik)
+
+- **NeXT,** *CEO*
+
+    - Created computers that were five years head of their time
+
+    - My *NeXTcube* was the first "interpersonal" computer 
+
+
+- **Pixar,** *CEO*
+
+    - Turned a small division of Lucasfilm into a powerhouse studio  
+
+    - Led company while making a story about toys   
+    
+
+---
+
+^1^ Capitalize this- it's a name  
+^2^ iKnew iPad was an iDeal name!  
+
+
+Last updated: `r Sys.Date()`  
+
