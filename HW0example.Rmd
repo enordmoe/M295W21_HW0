@@ -1,7 +1,7 @@
 ---
 title: "My First R Document"
 subtitle: "A Sample Resume"
-author: "Your Name Here"
+author: "Eric Nordmoe"
 date: "`r Sys.Date()`"
 output: html_document
 ---
