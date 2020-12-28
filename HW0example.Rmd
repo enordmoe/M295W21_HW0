@@ -70,7 +70,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
     - Turned a small division of Lucasfilm into a powerhouse studio  
 
-    - Led company while making a story about toys   
+    - Led company while making a story about toys  
+    
+    - One more line
     
 
 ---
